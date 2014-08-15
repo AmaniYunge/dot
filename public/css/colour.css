@@ -1,0 +1,64 @@
+.colour {color:#ff0000; }
+ 
+a {color: #2A84BF;}
+a:hover {color:#ff0000;}
+
+::selection { background: #2A84BF; color: #fff; }
+::-moz-selection { background: #2A84BF; color: #fff; }
+
+blockquote { border-left:4px solid #2A84BF!important;  }
+
+.btn { background-color: #2A84BF!important; }
+.btn-inverse:hover { background-color: #ff0000!important;}
+
+#menu li a:hover,  #menu  a:focus { color:#2A84BF!important; background-color:transparent; }
+
+#contact { color:#f0f0f0!important; background:#2A84BF!important;}
+#contact .lead, #contact h1 {color:#f0f0f0!important; }
+
+.footer a { color: #2A84BF!important;  }
+.footer a:hover { color: #999!important; }
+
+/**** CIRCLE LINK ****/
+.circle { background: #2A84BF!important; }
+.circle:hover {  background: #ff0000!important; }
+
+/*  ---------------------------------------------------------------
+  	SERVICE ICONS
+    --------------------------------------------------------------- */
+.service { background: #2A84BF!important; }
+
+/*  ---------------------------------------------------------------
+  	PROGRESS BARS/SKILL BARS
+    --------------------------------------------------------------- */
+.bars-wrapper .progress-bar { background:#2A84BF!important; }
+
+/*  ---------------------------------------------------------------
+  	TEAM ICONS
+    --------------------------------------------------------------- */
+.hi-icon2 { color: #2A84BF!important; }
+.hi-icon-effect-a .hi-icon2 { box-shadow: 0 0 0 3px #2A84BF!important; }
+.no-touch .hi-icon-effect-a1 .hi-icon2:hover { color:#2A84BF!important;}
+.hi-icon-effect-a .hi-icon2:after { background: #2A84BF!important; color:#2A84BF!important; }
+
+/*  ---------------------------------------------------------------
+   	HOVER CAPTIONS ( TEAM - VIEW PROFILE + WORK - VIEW BUTTONS 
+    --------------------------------------------------------------- */
+.cbp-l-caption-buttonLeft:hover, .cbp-l-caption-buttonRight:hover {
+    color: #fff!important;
+	background-color: #ff0000!important;
+}
+
+/*  ---------------------------------------------------------------
+  PORTFOLIO FILTERS
+    --------------------------------------------------------------- */
+.cbp-l-filters-button .cbp-filter-item-active { background-color:#2A84BF!important;  color: #fff !important; }
+.cbp-l-filters-button .cbp-filter-counter { background-color: #2A84BF!important; color: #fff!important; }
+.cbp-l-filters-button .cbp-filter-counter:before { border-top: 4px solid #2A84BF!important;}
+
+.nav-tabs .active a, .nav-tabs a:hover, .nav-tabs .active  a:focus { background-color:#ff0000!important;}
+
+
+
+
+
