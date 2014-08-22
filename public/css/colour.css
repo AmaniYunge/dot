@@ -11,7 +11,7 @@ blockquote { border-left:4px solid #2A84BF!important;  }
 .btn { background-color: #2A84BF!important; }
 .btn-inverse:hover { background-color: #ff0000!important;}
 
-#menu li a:hover,  #menu  a:focus { color:#2A84BF!important; background-color:transparent; }
+#menu li a:hover,  #menu  a:focus { color:#ff0000!important; background-color:transparent; }
 
 #contact { color:#f0f0f0!important; background:#2A84BF!important;}
 #contact .lead, #contact h1 {color:#f0f0f0!important; }

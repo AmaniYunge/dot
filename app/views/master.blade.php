@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <!--[if IE 8]> <html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" xmlns="http://www.w3.org/1999/html"> <!--<![endif]-->
 <head>
     <meta charset="utf-8" />
     <title>Dotphics</title>
@@ -15,6 +16,7 @@
 
     <!--CSS-->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/animate.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" >
@@ -295,7 +297,14 @@
                                 </div>
                             </a>
                             <a href="ajax/team1.html" class="cbp-singlePage cbp-l-grid-team-name">Stefan Kasililika</a>
-                            <div class="cbp-l-grid-team-position">Designer</div>
+                            <div class="cbp-l-grid-team-position">Designer<br>
+                                <a href="/"> <i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
+                                    <a href="/"><i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
+                                        <a href="/"><i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
+                                            <a href="/"> <i class="fa fa-instagram fa-2x" style="color: #000"></i></a>
+                            </div>
+
+
                         </li>
 
                         <!--2-->
@@ -313,7 +322,13 @@
                                 </div>
                             </a>
                             <a href="ajax/team2.html" class="cbp-singlePage cbp-l-grid-team-name">Kelvin Mbwilo</a>
-                            <div class="cbp-l-grid-team-position">Programmer</div>
+                            <div class="cbp-l-grid-team-position">Programmer<br>
+                                <a href="/"><i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
+                                <a href="/"> <i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
+                                <a href="/"><i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
+                                <a href="/"><i class="fa fa-instagram fa-2x" style="color: #000"></i></a>
+                            </div>
+
                         </li>
 
                         <!--3-->
@@ -331,7 +346,12 @@
                                 </div>
                             </a>
                             <a href="ajax/team3.html" class="cbp-singlePage cbp-l-grid-team-name">Stefan Kasililika</a>
-                            <div class="cbp-l-grid-team-position">Graphic Designer</div>
+                            <div class="cbp-l-grid-team-position">Graphic Designer<br>
+                               <a href="/" > <i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
+                                <a href="/"><i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
+                                <a href="/"> <i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
+                                <a href="/"> <i class="fa fa-instagram fa-2x" style="color: #000"></i></a>
+                            </div>
                         </li>
 
                         <!--4-->
@@ -349,7 +369,12 @@
                                 </div>
                             </a>
                             <a href="ajax/team4.html" class="cbp-singlePage cbp-l-grid-team-name">Amani Yunge</a>
-                            <div class="cbp-l-grid-team-position">Creative director</div>
+                            <div class="cbp-l-grid-team-position">Creative director<br>
+                                <a href="/" ><i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
+                                <a href="/" ><i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
+                                <a href="/"><i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
+                                <a href="/"> <i class="fa fa-instagram fa-2x" style="color: #000"></i></a>
+                            </div>
                         </li>
                     </ul>
                 </div>
@@ -376,22 +401,22 @@
                 <!--1-->
                 <div class="col-sm-4 col-lg-4 text-center">
                     <div class="counter wow bounceIn" data-wow-offset="80" data-wow-duration="2s">
-                        <div id="counter-1"></div>
-                        <p class="light">Wed Design &amp; System Development</p>
+<!--                        <div id="counter-1"></div>-->
+                        <p class="light"  style="font-size: 24px">Wed Design &amp; System Development</p>
                     </div>
                 </div>
                 <!--2-->
                 <div class="col-sm-4 col-lg-4 text-center">
                     <div class="counter wow bounceIn" data-wow-offset="80" data-wow-duration="2s">
-                        <div id="counter-2"></div>
-                        <p class="light">Graphic Design</p>
+<!--                        <div id="counter-2"></div>-->
+                        <p class="light"  style="font-size: 24px">Graphic Design</p>
                     </div>
                 </div>
                 <!--3-->
                 <div class="col-sm-4 col-lg-4 text-center ">
                     <div class="counter wow bounceIn" data-wow-offset="80" data-wow-duration="2s">
-                        <div id="counter-3"></div>
-                        <p class="light">Photography</p>
+<!--                        <div id="counter-3"></div>-->
+                        <p class="light" style="font-size: 24px">Photography</p>
                     </div>
                 </div>
                 <!--//COUNTERS-->
@@ -477,7 +502,7 @@
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
                                             <a href="ajax/project3.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
-                                            <a href="http://vimeo.com/85810033" class="cbp-lightbox cbp-l-caption-buttonRight"
+                                            <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-film"></i>
                                             </a>
@@ -497,7 +522,7 @@
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
                                             <a href="ajax/project4.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
-                                            <a href="img/gallery/3big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
+                                            <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
                                             </a>
@@ -517,7 +542,7 @@
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
                                             <a href="ajax/project5.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
-                                            <a href="img/gallery/4big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
+                                            <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
                                             </a>
@@ -537,7 +562,7 @@
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
                                             <a href="ajax/project6.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
-                                            <a href="img/gallery/5big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
+                                            <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
                                             </a>
@@ -557,7 +582,7 @@
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
                                             <a href="ajax/project7.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
-                                            <a href="img/gallery/6big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
+                                            <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
                                             </a>
@@ -577,10 +602,10 @@
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
                                             <a href="ajax/project8.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
-                                            <a href="http://www.youtube.com/watch?v=IbWOQWw1wkM"
+                                            <a href="img/gallery/milestones.jpg"
                                                class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
-                                                <i class="fa fa-film"></i>
+                                                <i class="fa fa-eye"></i>
                                             </a>
                                         </div>
                                     </div>
@@ -625,157 +650,6 @@
 </section>
 <!--//WORK SECTION ENDS-->
 
-<!--PRICING SECTION STARTS-->
-<section id="price">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-lg-12">
-                <h1 class="wow fadeInRightBig" data-wow-offset="80" data-wow-duration="2s">
-                    Prices
-                </h1>
-
-                <div class="lead  wow fadeInRightBig" data-wow-offset="80" data-wow-duration="2s">
-                    Design is a <strong>plan for arranging</strong> elements in such a way as <a href="image.html">best</a> to accomplish a particular <strong>purpose.</strong>
-                    - Kelvin Mbwilo
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-lg-12">
-                <div class="row">
-                    <div id="pricing" class="container text-center">
-
-                        <!--1-->
-                        <div class="col-sm-6 col-lg-3  wow bounceIn" data-wow-offset="80" data-wow-duration="2s">
-                            <div class="price-plan">
-                                <div class="price-plan-top">
-                                    <a class="price-plan-link">
-                                        <h2>Starter</h2>
-                                        <div class="price">
-                                            <span class="dollar">$</span><span class="amt">6</span> <span class="mo">/mo</span>
-                                            <p class="price-breakdown">
-                                                Pay yearly or $10 per month
-                                            </p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="info-wrapper">
-                                    <ul class="list-group">
-                                        <li><strong>1GB</strong> Disk Space</li>
-                                        <li><strong>10GB</strong> Monthly Bandwidth</li>
-                                        <li><strong>2</strong> Email Accounts</li>
-                                        <li><i class="fa fa-star-o colour"></i> <strong>Unlimited</strong> Subdomains</li>
-                                    </ul>
-                                    <a href="image.html#" class="btn">GET IN TOUCH</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- //end-->
-
-                        <!--2-->
-                        <div class="col-sm-6 col-lg-3  wow bounceIn" data-wow-offset="80" data-wow-duration="2s">
-                            <div class="price-plan">
-                                <div class="price-plan-top">
-                                    <a class="price-plan-link">
-                                        <h2>Business</h2>
-                                        <div class="price">
-                                            <span class="dollar">$</span><span class="amt annual">18</span> <span class="mo">/mo</span>
-                                            <p class="price-breakdown">
-                                                Pay yearly or $10 per month
-                                            </p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="info-wrapper">
-                                    <ul class="list-group">
-                                        <li><strong>10GB</strong> Disk Space</li>
-                                        <li><strong>100GB</strong> Monthly Bandwidth</li>
-                                        <li><strong>20</strong> Email Accounts</li>
-                                        <li><strong>Unlimited</strong> Subdomains</li>
-                                    </ul>
-                                    <a href="image.html#" class="btn">GET IN TOUCH</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!--//end-->
-
-                        <!--3-->
-                        <div class="col-sm-6 col-lg-3 wow bounceIn" data-wow-offset="80" data-wow-duration="2s">
-                            <div class="price-plan">
-                                <div class="price-plan-top">
-                                    <a class="price-plan-link">
-                                        <h2>Professional</h2>
-                                        <div class="price">
-                                            <span class="dollar">$</span><span class="amt annual">27</span> <span class="mo">/mo</span>
-                                            <p class="price-breakdown">
-                                                Pay yearly or $10 per month
-                                            </p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="info-wrapper">
-                                    <ul class="list-group">
-                                        <li><strong>40GB</strong> Disk Space <span class="label label-danger">New</span></li>
-                                        <li><strong>100GB</strong> Monthly Bandwidth</li>
-                                        <li><strong>40</strong> Email Accounts</li>
-                                        <li><strong>Unlimited</strong> Subdomains</li>
-                                    </ul>
-                                    <a href="image.html#" class="btn">GET IN TOUCH</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!--//end-->
-
-                        <!--4-->
-                        <div class="col-sm-6 col-lg-3 wow bounceIn" data-wow-offset="80" data-wow-duration="2s">
-                            <div class="price-plan">
-                                <div class="price-plan-top">
-                                    <a class="price-plan-link">
-                                        <h2>Premium</h2>
-                                        <div class="price">
-                                            <span class="dollar">$</span><span class="amt annual">50</span> <span class="mo">/mo</span>
-                                            <p class="price-breakdown">
-                                                Pay yearly or $10 per month
-                                            </p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="info-wrapper">
-                                    <ul class="list-group">
-                                        <li><strong>80GB</strong> Disk Space</li>
-                                        <li><strong>1000GB</strong> Monthly Bandwidth</li>
-                                        <li><i class="fa fa-star-o"></i> <strong>Unlimited</strong> Email Accounts</li>
-                                        <li><strong>Unlimited</strong> Subdomains</li>
-                                    </ul>
-                                    <a href="image.html#" class="btn">GET IN TOUCH</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!--//end-->
-                    </div>
-
-                    <!--CLIENTS-->
-                    <div class="wow fadeIn col-lg-10 col-lg-offset-1 pad45" data-wow-offset="80">
-                        <div id="clients">
-                            <div class="item"><img src="img/clients/logo1.png" alt=""></div>
-                            <div class="item"><img src="img/clients/logo2.png" alt=""></div>
-                            <div class="item"><img src="img/clients/logo3.png" alt=""></div>
-                            <div class="item"><img src="img/clients/logo4.png" alt=""></div>
-                            <div class="item"><img src="img/clients/logo5.png" alt=""></div>
-                            <div class="item"><img src="img/clients/logo6.png" alt=""></div>
-                            <div class="item"><img src="img/clients/logo7.png" alt=""></div>
-                            <div class="item"><img src="img/clients/logo8.png" alt=""></div>
-                        </div>
-                        <div class="pad45"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--//SECTION ENDS-->
 
 <!--//MP4 VIDEO SECTION STARTS-->
 <section  class="wallpapered video-section" data-wallpaper-options='
