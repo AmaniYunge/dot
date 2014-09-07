@@ -41,18 +41,18 @@
         <div class="row">
             <!--LOGO-->
             <div id="logo">
-<!--                <a class="scroll" href="image.html#home"><img src="img/logo.png" alt="" /></a>-->
+<!--                <a class="scroll" href="#home"><img src="img/logo.png" alt="" /></a>-->
             </div>
             <!--//LOGO-->
 
             <!--MENU-->
             <ul id="menu">
-                <li><a class="scroll" href="image.html#home">Home</a></li>
-                <li><a class="scroll" href="image.html#about">About</a></li>
-                <li><a class="scroll" href="image.html#team">Team</a></li>
-                <li><a class="scroll" href="image.html#work">Work</a></li>
-                <li><a class="scroll" href="image.html#price">Pricing</a></li>
-                <li><a class="scroll" href="image.html#contact">Contact</a></li>
+                <li><a class="scroll" href="#home">Home</a></li>
+                <li><a class="scroll" href="#about">About</a></li>
+                <li><a class="scroll" href="#team">Team</a></li>
+                <li><a class="scroll" href="#work">Work</a></li>
+                <li><a class="scroll" href="#price">Pricing</a></li>
+                <li><a class="scroll" href="#contact">Contact</a></li>
                 <li><a class="scroll" href="blog.html">Blog</a></li>
             </ul>
             <!--//MENU-->
@@ -83,11 +83,11 @@
             </h1>
 
             <div class="name wow bounceInDown" data-wow-duration="3s" data-wow-delay="2s">
-                <span style="color:#2A84BF"><strong>The world of creativity</strong></span>
+                <span style="color:#2A84BF"><strong>To the world of creatives</strong></span>
             </div>
 
             <div class="text-center pad30">
-                <a href="image.html#about" class="scroll">
+                <a href="#about" class="scroll">
                     <i class="fa fa-caret-down fa-inverse ilink fa-3x wow rotateIn" data-wow-duration="1s" data-wow-delay="8s"></i></a>
             </div>
         </div>
@@ -111,79 +111,95 @@
                     What we do
                 </h1>
 
-                <div class="lead wow fadeInRightBig" data-wow-offset="80" data-wow-duration="2s">
-                    Success is no accident. It is hard work, <strong>perseverance</strong>, learning, sacrifice and most of all,
-                    <span class="colour"><strong>love</strong></span> of what you are doing or <span class="colour">learning</span> to do.
+                <div class="lead wow fadeInRightBig" data-wow-offset="80" data-wow-duration="2s" style="font-size: 32px">
+                    We create the <span class="colour"><strong>vision</strong></span>  that makes you wanna jump out of
+                    <span class="colour"><strong>bed</strong></span> in the <strong >morning.</strong>
                 </div>
+               <div class="row">
+                   <!--SERVICE 1-->
+                   <div class="col-sm-4 col-lg-4 text-center wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1s">
+                       <div class="service">
+                           <i class="fa fa-users"></i>
+                       </div>
+                       <h6>System Development</h6>
+                       <p>
+                           "... the designer of a new system must not only be the implementer and the first large-scale user;
+                           the designer should also write the first user manual... If we had not participated fully in all these activities,
+                           literally hundreds of improvements would never have been made, because we would never have thought of them or perceived why they were important."
+                       </p>
+                   </div>
 
-                <!--SERVICE 1-->
-                <div class="col-sm-4 col-lg-4 text-center wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1s">
-                    <div class="service">
-                        <i class="fa fa-users"></i>
+                   <!--SERVICE 2-->
+                   <div class="col-sm-4 col-lg-4 text-center wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1.5s">
+                       <div class="service">
+
+                           <i class="fa fa-laptop"></i>
+                       </div>
+                       <h6>Web Design</h6>
+                       <p>“If there's one thing you learn by working on a lot of different Web sites,
+                           it's that almost any design idea no matter how appallingly bad can be made usable in the right circumstances,
+                           with enough effort.<br>
+                           There are two ways of constructing a web design: One way is to make it so simple that there are obviously no deficiencies,
+                           and the other way is to make it so complicated that there are no obvious deficiencies.”
+                       </p>
+                   </div>
+
+                   <!--SERVICE 3-->
+                   <div class="col-sm-4 col-lg-4 text-center  wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="2s">
+                       <div class="service">
+
+                           <i class="fa fa-pencil"></i>
+                       </div>
+                       <h6>Graphic Design</h6>
+                       <p>
+                           "Graphic Designing is a way of feeling, of touching, of loving. What you have caught on mind is captured forever...<br>
+                           it remembers little things, long after you have forgotten everything
+                          "
+                       </p>
+                   </div>
+               </div>
+
+                <div class="row">
+                    <!--SERVICE 4-->
+                    <div class="col-sm-4 col-lg-4 text-center wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1s">
+                        <div class="service">
+                            <i class="fa fa-camera-retro"></i>
+                        </div>
+                        <h6>Photography</h6>
+                        <p>
+                            “You don't make a photograph just with a camera. You bring to the act of photography all the pictures you have seen,
+                            the books you have read, the music you have heard, the people you have loved.<br>
+                            Just because a picture is a secret about a secret, the more it tells you the less you know.”
+                        </p>
                     </div>
-                    <h6>System Development</h6>
-                    <p>
-                        Design is the creation of a plan or convention for the construction of an object or a system (as in architectural blueprints, engineering drawings, business processes, circuit diagrams and sewing patterns).
-                    </p>
-                </div>
 
-                <!--SERVICE 2-->
-                <div class="col-sm-4 col-lg-4 text-center wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1.5s">
-                    <div class="service">
-
-                        <i class="fa fa-laptop"></i>
+                    <!--SERVICE 5-->
+                    <div class="col-sm-4 col-lg-4 text-center wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1.5s">
+                        <div class="service">
+                            <i class="fa fa-lightbulb-o"></i>
+                        </div>
+                        <h6>IT Consultation</h6>
+                        <p>
+                            "Test ideas in the marketplace. You learn from hearing a range of perspectives.
+                            Consultation helps engender the support decisions need to be successfully implemented." <br>
+                           Thats what we do.
+                        </p>
                     </div>
-                    <h6>Web Design</h6>
-                    <p>
-                        Design is the creation of a plan or convention for the construction of an object or a system (as in architectural blueprints, engineering drawings, business processes, circuit diagrams and sewing patterns).
-                    </p>
-                </div>
 
-                <!--SERVICE 3-->
-                <div class="col-sm-4 col-lg-4 text-center  wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="2s">
-                    <div class="service">
-
-                        <i class="fa fa-pencil"></i>
+                    <!--SERVICE 6-->
+                    <div class="col-sm-4 col-lg-4 text-center  wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="2s">
+                        <div class="service">
+                            <i class="fa fa-tasks"></i>
+                        </div>
+                        <h6>Hosting</h6>
+                        <p>
+                            "Save time and money with our web site hosting service."
+                        </p>
                     </div>
-                    <h6>Graphic Design</h6>
-                    <p>
-                        Design is the creation of a plan or convention for the construction of an object or a system (as in architectural blueprints, engineering drawings, business processes, circuit diagrams and sewing patterns).
-                    </p>
+
                 </div>
 
-                <!--SERVICE 4-->
-                <div class="col-sm-4 col-lg-4 text-center wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1s">
-                    <div class="service">
-                        <i class="fa fa-camera-retro"></i>
-                    </div>
-                    <h6>Photography</h6>
-                    <p>
-                        Design is the creation of a plan or convention for the construction of an object or a system (as in architectural blueprints, engineering drawings, business processes, circuit diagrams and sewing patterns) that isn't an ansate plain. A bait is a distance's helium.
-                    </p>
-                </div>
-
-                <!--SERVICE 5-->
-                <div class="col-sm-4 col-lg-4 text-center wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1.5s">
-                    <div class="service">
-                        <i class="fa fa-lightbulb-o"></i>
-                    </div>
-                    <h6>IT Consultation</h6>
-                    <p>
-                        Design is the creation of a plan or convention for the construction of an object or a system (as in architectural blueprints, engineering drawings, business processes, circuit diagrams and sewing patterns) that isn't an ansate plain. A bait is a distance's helium.
-                    </p>
-                </div>
-
-                <!--SERVICE 6-->
-                <div class="col-sm-4 col-lg-4 text-center  wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="2s">
-                    <div class="service">
-                        <i class="fa fa-tasks"></i>
-                    </div>
-                    <h6>Hosting</h6>
-                    <p>
-                        Design is the creation of a plan or convention for the construction of an object or a system (as in architectural blueprints, engineering drawings, business processes, circuit diagrams and sewing patterns) that isn't an ansate plain. A bait is a distance's helium.
-                    </p>
-                </div>
-            </div>
+               </div>
         </div>
     </div>
 </section>
@@ -250,8 +266,8 @@
                 </h1>
 
                 <div class="lead  wow fadeInRightBig" data-wow-offset="80" data-wow-duration="2s">
-                    I In fact choose to use a <strong>coffeemaker</strong> to boil vegetables. Why? Because if I <strong><span class="colour">used something else</span></strong>
-                    that just makes coffee, my client would ask me "Can it boil vegetables?"
+                    Sometimes <span class="colour"><strong>magic</strong></span> is just someone <strong>spending</strong> more time on something than anyone else might reasonably <span class="colour"><strong> expect.</strong></span>
+
                 </div>
             </div>
 
@@ -275,8 +291,8 @@
         <div class="row">
             <div class="col-sm-12 col-lg-12 pad15">
                 <!--BUTTONS-->
-                <a href="image.html#contact" class="scroll btn marg-right10 wow bounceIn" data-wow-offset="80" data-wow-duration="2s">CONTACT</a>
-                <a href="image.html#work" class="scroll btn wow bounceIn" data-wow-offset="80" data-wow-duration="2s">PORTFOLIO</a>
+                <a href="#contact" class="scroll btn marg-right10 wow bounceIn" data-wow-offset="80" data-wow-duration="2s">CONTACT</a>
+                <a href="#work" class="scroll btn wow bounceIn" data-wow-offset="80" data-wow-duration="2s">PORTFOLIO</a>
                 <div class="pad45"></div>
 
                 <!--TEAM MEMBERS-->
@@ -284,7 +300,7 @@
                     <ul class="cbp-l-grid-team">
                         <!--1-->
                         <li class="cbp-item">
-                            <a href="ajax/team1.html" class="cbp-caption cbp-singlePage">
+                            <a href="{{ url('ajax/team1') }}" class="cbp-caption cbp-singlePage">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/team/4.jpg" alt="" >
                                 </div>
@@ -296,7 +312,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="ajax/team1.html" class="cbp-singlePage cbp-l-grid-team-name">Stefan Kasililika</a>
+                            <a href="ajax/team1.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Stefan Kasililika</a>
                             <div class="cbp-l-grid-team-position">Designer<br>
                                 <a href="/"> <i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
                                     <a href="/"><i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
@@ -309,7 +325,7 @@
 
                         <!--2-->
                         <li class="cbp-item">
-                            <a href="ajax/team2.html" class="cbp-caption cbp-singlePage">
+                            <a href="{{ url('ajax/team2') }}" class="cbp-caption cbp-singlePage">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/team/4.jpg" alt="" >
                                 </div>
@@ -321,7 +337,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="ajax/team2.html" class="cbp-singlePage cbp-l-grid-team-name">Kelvin Mbwilo</a>
+                            <a href="ajax/team2.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Kelvin Mbwilo</a>
                             <div class="cbp-l-grid-team-position">Programmer<br>
                                 <a href="/"><i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
                                 <a href="/"> <i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
@@ -333,7 +349,7 @@
 
                         <!--3-->
                         <li class="cbp-item">
-                            <a href="ajax/team3.html" class="cbp-caption cbp-singlePage">
+                            <a href="{{ url('ajax/team3') }}" class="cbp-caption cbp-singlePage">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/team/4.jpg" alt="" >
                                 </div>
@@ -345,7 +361,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="ajax/team3.html" class="cbp-singlePage cbp-l-grid-team-name">Stefan Kasililika</a>
+                            <a href="ajax/team3.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Stefan Kasililika</a>
                             <div class="cbp-l-grid-team-position">Graphic Designer<br>
                                <a href="/" > <i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
                                 <a href="/"><i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
@@ -356,7 +372,7 @@
 
                         <!--4-->
                         <li class="cbp-item">
-                            <a href="ajax/team4.html" class="cbp-caption cbp-singlePage">
+                            <a href="{{ url('ajax/team4') }}" class="cbp-caption cbp-singlePage">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/team/4.jpg" alt="" >
                                 </div>
@@ -368,7 +384,7 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="ajax/team4.html" class="cbp-singlePage cbp-l-grid-team-name">Amani Yunge</a>
+                            <a href="ajax/team4.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Amani Yunge</a>
                             <div class="cbp-l-grid-team-position">Creative director<br>
                                 <a href="/" ><i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
                                 <a href="/" ><i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
@@ -435,7 +451,7 @@
                 Work
             </h1>
             <div class="lead wow fadeInRightBig" data-wow-offset="80" data-wow-duration="2s">
-                A confident <a href="#">client will</a> see<br>your confidence as <strong>strength</strong>, not arrogance.
+                A confident <a href="#">client will</a> see<br>your confidence as <span class="colour"> strength</span>, not arrogance.
             </div>
 
             <!--FILTERS-->
@@ -456,12 +472,12 @@
                         <li class="cbp-item graphic">
                             <div class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
-                                    <img src="img/gallery/thumb/5.jpg" alt="" />
+                                    <img src="img/gallery/thumb/1.jpg" alt="" />
                                 </div>
                                 <div class="cbp-caption-activeWrap">
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
-                                            <a href="ajax/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="{{ url('ajax/project1') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
                                             <a href="img/gallery/1big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
@@ -476,12 +492,12 @@
                         <li class="cbp-item web-design logo">
                             <div class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
-                                    <img src="img/gallery/thumb/5.jpg" alt=""/>
+                                    <img src="img/gallery/thumb/2.jpg" alt=""/>
                                 </div>
                                 <div class="cbp-caption-activeWrap">
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
-                                            <a href="ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="{{ url('ajax/project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
                                             <a href="img/gallery/2big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
@@ -496,12 +512,12 @@
                         <li class="cbp-item graphic logo">
                             <div class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
-                                    <img src="img/gallery/thumb/5.jpg" alt="" />
+                                    <img src="img/gallery/thumb/3.jpg" alt="" />
                                 </div>
                                 <div class="cbp-caption-activeWrap">
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
-                                            <a href="ajax/project3.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="{{ url('ajax/project3') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
                                             <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-film"></i>
@@ -516,12 +532,12 @@
                         <li class="cbp-item web-design graphic">
                             <div class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
-                                    <img src="img/gallery/thumb/5.jpg" alt="" />
+                                    <img src="img/gallery/thumb/4.jpg" alt="" />
                                 </div>
                                 <div class="cbp-caption-activeWrap">
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
-                                            <a href="ajax/project4.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="{{ url('ajax/project4') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
                                             <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
@@ -536,12 +552,12 @@
                         <li class="cbp-item identity web-design">
                             <div class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
-                                    <img src="img/gallery/thumb/5.jpg" alt="" />
+                                    <img src="img/gallery/thumb/6.jpg" alt="" />
                                 </div>
                                 <div class="cbp-caption-activeWrap">
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
-                                            <a href="ajax/project5.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="{{ url('ajax/project5') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
                                             <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
@@ -556,12 +572,12 @@
                         <li class="cbp-item identity web-design">
                             <div class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
-                                    <img src="img/gallery/thumb/5.jpg" alt="" />
+                                    <img src="img/gallery/thumb/7.jpg" alt="" />
                                 </div>
                                 <div class="cbp-caption-activeWrap">
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
-                                            <a href="ajax/project6.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="{{ url('ajax/project6') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
                                             <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
@@ -576,12 +592,12 @@
                         <li class="cbp-item graphic logo">
                             <div class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
-                                    <img src="img/gallery/thumb/5.jpg" alt="" />
+                                    <img src="img/gallery/thumb/8.jpg" alt="" />
                                 </div>
                                 <div class="cbp-caption-activeWrap">
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
-                                            <a href="ajax/project7.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="{{ url('ajax/project7') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
                                             <a href="img/gallery/milestones.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
@@ -596,12 +612,92 @@
                         <li class="cbp-item identity graphic">
                             <div class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
+                                    <img src="img/gallery/thumb/6.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignCenter">
+                                        <div class="cbp-l-caption-body">
+                                            <a href="{{ url('ajax/project8') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="img/gallery/milestones.jpg"
+                                               class="cbp-lightbox cbp-l-caption-buttonRight"
+                                               data-title="Project Title">
+                                                <i class="fa fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <!--9-->
+                        <li class="cbp-item identity logo">
+                            <div class="cbp-caption">
+                                <div class="cbp-caption-defaultWrap">
+                                    <img src="img/gallery/thumb/10.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignCenter">
+                                        <div class="cbp-l-caption-body">
+                                            <a href="{{ url('ajax/project8') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="img/gallery/milestones.jpg"
+                                               class="cbp-lightbox cbp-l-caption-buttonRight"
+                                               data-title="Project Title">
+                                                <i class="fa fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <!--10-->
+                        <li class="cbp-item identity web-design">
+                            <div class="cbp-caption">
+                                <div class="cbp-caption-defaultWrap">
+                                    <img src="img/gallery/thumb/11.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignCenter">
+                                        <div class="cbp-l-caption-body">
+                                            <a href="{{ url('ajax/project8') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="img/gallery/milestones.jpg"
+                                               class="cbp-lightbox cbp-l-caption-buttonRight"
+                                               data-title="Project Title">
+                                                <i class="fa fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <!--11-->
+                        <li class="cbp-item identity graphic">
+                            <div class="cbp-caption">
+                                <div class="cbp-caption-defaultWrap">
+                                    <img src="img/gallery/thumb/12.jpg" alt="" />
+                                </div>
+                                <div class="cbp-caption-activeWrap">
+                                    <div class="cbp-l-caption-alignCenter">
+                                        <div class="cbp-l-caption-body">
+                                            <a href="{{ url('ajax/project8') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="img/gallery/milestones.jpg"
+                                               class="cbp-lightbox cbp-l-caption-buttonRight"
+                                               data-title="Project Title">
+                                                <i class="fa fa-eye"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <!--13-->
+                        <li class="cbp-item identity logo">
+                            <div class="cbp-caption">
+                                <div class="cbp-caption-defaultWrap">
                                     <img src="img/gallery/thumb/5.jpg" alt="" />
                                 </div>
                                 <div class="cbp-caption-activeWrap">
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
-                                            <a href="ajax/project8.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
+                                            <a href="{{ url('ajax/project8') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
                                             <a href="img/gallery/milestones.jpg"
                                                class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
@@ -617,7 +713,7 @@
 
                 <!--LOAD MORE BUTTON-->
                 <div class="cbp-l-loadMore-button">
-                    <a href="ajax/loadMore.html" class="cbp-l-loadMore-button-link">
+                    <a href="ajax/loadMore.blade.php" class="cbp-l-loadMore-button-link">
                         <i class="fa fa-plus-circle wow load pulse" data-wow-iteration="infinite" data-toggle="tooltip" data-placement="bottom" id="bottom" title="" data-original-title="load more"></i>
                     </a>
                 </div>
@@ -639,7 +735,7 @@
                         It's art if it can't be explained. It's <strong>fashion</strong> if no one asks for an explanation.
                         It's design if it doesn't need <strong>explanation.</strong>
                     </h2>
-                    <a href="image.html#contact" class="scroll btn wow bounceIn" data-wow-offset="80" data-wow-duration="2s">CONTACT</a>
+                    <a href="#contact" class="scroll btn wow bounceIn" data-wow-offset="80" data-wow-duration="2s">CONTACT</a>
                     <div class="pad90"></div>
                 </div>
             </div>
@@ -685,7 +781,7 @@
                     <ul>
                         <!--1-->
                         <li class="cbp-item">
-                            <a href="image.html#" class="cbp-caption">
+                            <a href="#" class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/blog/a1.jpg" alt="">
                                 </div>
@@ -697,14 +793,14 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="image.html#" class="cbp-l-grid-blog-title">We want to rule the world </a>
+                            <a href="#" class="cbp-l-grid-blog-title">We want to rule the world </a>
                             <div class="cbp-l-grid-blog-date">20 January 2014</div>
                             <div class="cbp-l-grid-blog-split">|</div>
-                            <a href="image.html#" class="cbp-l-grid-blog-comments">12 comments</a>
+                            <a href="#" class="cbp-l-grid-blog-comments">12 comments</a>
                         </li>
                         <!--2-->
                         <li class="cbp-item">
-                            <a href="image.html#" class="cbp-caption">
+                            <a href="#" class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/blog/a2.jpg" alt="" >
                                 </div>
@@ -716,14 +812,14 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="image.html#" class="cbp-l-grid-blog-title">The Office</a>
+                            <a href="#" class="cbp-l-grid-blog-title">The Office</a>
                             <div class="cbp-l-grid-blog-date">25 February 2014</div>
                             <div class="cbp-l-grid-blog-split">|</div>
-                            <a href="image.html#" class="cbp-l-grid-blog-comments">8 comments</a>
+                            <a href="#" class="cbp-l-grid-blog-comments">8 comments</a>
                         </li>
                         <!--3-->
                         <li class="cbp-item">
-                            <a href="image.html#" class="cbp-caption">
+                            <a href="#" class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/blog/a3.jpg" alt="" >
                                 </div>
@@ -735,15 +831,15 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="image.html#" class="cbp-l-grid-blog-title">Red flowers</a>
+                            <a href="#" class="cbp-l-grid-blog-title">Red flowers</a>
                             <div class="cbp-l-grid-blog-date">27 March 2014</div>
                             <div class="cbp-l-grid-blog-split">|</div>
-                            <a href="image.html#" class="cbp-l-grid-blog-comments">23 comments</a>
+                            <a href="#" class="cbp-l-grid-blog-comments">23 comments</a>
 
                         </li>
                         <!--4-->
                         <li class="cbp-item">
-                            <a href="image.html#" class="cbp-caption">
+                            <a href="#" class="cbp-caption">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/blog/a4.jpg" alt="" >
                                 </div>
@@ -755,10 +851,10 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="image.html#" class="cbp-l-grid-blog-title">Get your camera out...</a>
+                            <a href="#" class="cbp-l-grid-blog-title">Get your camera out...</a>
                             <div class="cbp-l-grid-blog-date">25 April 2014</div>
                             <div class="cbp-l-grid-blog-split">|</div>
-                            <a href="image.html#" class="cbp-l-grid-blog-comments">111 comments</a>
+                            <a href="#" class="cbp-l-grid-blog-comments">111 comments</a>
                         </li>
                     </ul>
                 </div>
@@ -797,22 +893,22 @@
                         <ul class="fa-ul">
                             <li><i class="fa-li fa fa-phone "></i> <span class="inverse">+255 684 584 884</span></li>
                             <li><i class="fa-li fa fa-envelope "></i> <a href="mailto:#">info@dotphics.com</a></li>
-                            <li><i class="fa-li fa fa-globe "></i> <a href="image.html#">www.dotphics.com</a></li>
+                            <li><i class="fa-li fa fa-globe "></i> <a href="#">www.dotphics.com</a></li>
 
                         </ul>
 
                         <ul class="social-icons">
                             <li class="wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="0.5s">
-                                <a href="image.html#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-facebook"></i></a>
                             </li>
                             <li class="wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1s">
-                                <a href="image.html#"><i class="fa fa-github"></i></a>
+                                <a href="#"><i class="fa fa-github"></i></a>
                             </li>
                             <li class="wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="1.5s">
-                                <a href="image.html#"><i class="fa fa-google-plus"></i></a>
+                                <a href="#"><i class="fa fa-google-plus"></i></a>
                             </li>
                             <li class="wow fadeIn" data-wow-offset="80" data-wow-duration="2s" data-wow-delay="2s">
-                                <a href="image.html#"><i class="fa fa-instagram"></i></a>
+                                <a href="#"><i class="fa fa-instagram"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -855,7 +951,7 @@
     <div class="center footer">
         <!-- UP TO TOP -->
         <div class="wow bounce" data-wow-offset="80" data-wow-duration="2s">
-            <a href="image.html#home" class=" scroll">
+            <a href="#home" class=" scroll">
 											<span class="fa-stack fa-lg">
 												<i class="fa fa-circle fa-stack-2x "></i>
 												<i class="fa fa-angle-double-up fa-stack-1x fa-inverse"></i>

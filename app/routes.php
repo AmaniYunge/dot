@@ -21,62 +21,62 @@ Route::get('loadMore', function()
     return View::make('loadMore');
 });
 
-Route::get('project1', function()
+Route::get('ajax/project1', function()
 {
-    return View::make('project1');
+    return View::make('ajax/project1');
 });
 
-Route::get('project2', function()
+Route::get('ajax/project2', function()
 {
-    return View::make('project2');
+    return View::make('ajax/project2');
 });
 
-Route::get('project3', function()
+Route::get('ajax/project3', function()
 {
-    return View::make('project3');
+    return View::make('ajax/project3');
 });
 
-Route::get('project4', function()
+Route::get('ajax/project4', function()
 {
-    return View::make('project4');
+    return View::make('ajax/project4');
 });
 
-Route::get('project5', function()
+Route::get('ajax/project5', function()
 {
-    return View::make('project5');
+    return View::make('ajax/project5');
 });
 
-Route::get('project6', function()
+Route::get('ajax/project6', function()
 {
-    return View::make('project6');
+    return View::make('ajax/project6');
 });
 
-Route::get('project7', function()
+Route::get('ajax/project7', function()
 {
-    return View::make('project7');
+    return View::make('ajax/project7');
 });
 
-Route::get('project8', function()
+Route::get('ajax/project8', function()
 {
-    return View::make('project8');
+    return View::make('ajax/project8');
 });
 
-Route::get('team1', function()
+Route::get('ajax/team1', function()
 {
-    return View::make('team1');
+    return View::make('ajax/team1');
 });
 
-Route::get('team2', function()
+Route::get('ajax/team2', function()
 {
-    return View::make('team2');
+    return View::make('ajax/team2');
 });
 
-Route::get('team3', function()
+Route::get('ajax/team3', function()
 {
-    return View::make('team3');
+    return View::make('ajax/team3');
 });
 
-Route::get('team4', function()
+Route::get('ajax/team4', function()
 {
-    return View::make('team4');
+    return View::make('ajax/team4');
 });

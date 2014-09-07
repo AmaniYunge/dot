@@ -2,7 +2,7 @@
 	<div id="single">
 		 <div class="col-sm-12 col-lg-12">
 
-		<h1>Jean Addision</h1>
+		<h1>Amani Yunge</h1>
 		
 			<div class="lead">
 				Live as if you were living already for the second time. 
@@ -24,11 +24,11 @@
 		
 		<!--social -->
 			<h3 class="pad15">
-				<a href="team1.html#"><i class="fa fa-facebook pad-right15 social"></i></a>
-				<a href="team1.html#"><i class="fa fa-google-plus pad-right15 social"></i></a>
-				<a href="team1.html#"><i class="fa fa-github pad-right15 social"></i></a>
-				<a href="team1.html#"><i class="fa fa-linkedin pad-right15 social"></i></a>
-				<a href="team1.html#"><i class="fa fa-instagram social"></i></a>
+				<a href="team1#"><i class="fa fa-facebook pad-right15 social"></i></a>
+				<a href="team1#"><i class="fa fa-google-plus pad-right15 social"></i></a>
+				<a href="team1#"><i class="fa fa-github pad-right15 social"></i></a>
+				<a href="team1#"><i class="fa fa-linkedin pad-right15 social"></i></a>
+				<a href="team1#"><i class="fa fa-instagram social"></i></a>
 			</h3>
 			
 			<div class="pad25"></div>

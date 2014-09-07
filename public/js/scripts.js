@@ -175,7 +175,7 @@ var isMobile = {
 
 <!--TICKER - add your text here -->
 
-$(".ticker").airport([ "creating web sites","to stand out from the crowd","drinking cups of tea" ]);
+$(".ticker").airport([ "creating web sites","to bring people to the world of creatives","sharing good ideas with friends" ]);
 
 
   

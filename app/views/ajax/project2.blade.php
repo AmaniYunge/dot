@@ -63,7 +63,7 @@
 				</ul>
 		
 		<div class="pad25"></div>
-			<a href="project2.html#" class="btn">LAUNCH</a>
+			<a href="project2.blade.php#" class="btn">LAUNCH</a>
 		<div class="pad25"></div>
 	</div>
 		</div>
