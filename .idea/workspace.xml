@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ab1eba2-e00c-46d9-8fd5-e39da97dccd3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/gallery/1big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/gallery/p2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/gallery/thumb/1.jpg" afterPath="$PROJECT_DIR$/public/img/gallery/thumb/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/team/4.jpg" afterPath="$PROJECT_DIR$/public/img/team/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/gallery/thumb/6.jpg" afterPath="$PROJECT_DIR$/public/img/gallery/thumb/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/gallery/6big.jpg" afterPath="$PROJECT_DIR$/public/img/gallery/6big.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/gallery/thumb/7.jpg" afterPath="$PROJECT_DIR$/public/img/gallery/thumb/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/gallery/thumb/8.jpg" afterPath="$PROJECT_DIR$/public/img/gallery/thumb/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/big_image.jpg" afterPath="$PROJECT_DIR$/public/img/big_image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/colour.css" afterPath="$PROJECT_DIR$/public/css/colour.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/master.blade.php" afterPath="$PROJECT_DIR$/app/views/master.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/scripts.js" afterPath="$PROJECT_DIR$/public/js/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9ab1eba2-e00c-46d9-8fd5-e39da97dccd3" name="Default" comment="" />
     <ignored path="dot.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,7 +44,7 @@
       <file leaf-file-name="master.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="87" selection-start="2340" selection-end="2340" vertical-scroll-proportion="0.33962265" vertical-offset="756" max-vertical-offset="18378">
+            <state line="55" column="90" selection-start="2343" selection-end="2343" vertical-scroll-proportion="0.2084942" vertical-offset="756" max-vertical-offset="18378">
               <folding>
                 <element signature="tag#script#1;tag#head#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#span#1;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -388,7 +373,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -733,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="87" selection-start="2340" selection-end="2340" vertical-scroll-proportion="0.33962265" vertical-offset="756" max-vertical-offset="18378">
+        <state line="55" column="90" selection-start="2343" selection-end="2343" vertical-scroll-proportion="0.2084942" vertical-offset="756" max-vertical-offset="18378">
           <folding>
             <element signature="tag#script#1;tag#head#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#span#1;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
