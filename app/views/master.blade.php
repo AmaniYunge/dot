@@ -31,6 +31,18 @@
     <!--DEMO-->
     <link rel="stylesheet" href="styleswitcher/css/styleswitcher.css">
     <link id="colours" rel="stylesheet" href="css/colour.css" />
+
+    <!--Start of Zopim Live Chat Script-->
+    <script type="text/javascript">
+        window.$zopim||(function(d,s){var z=$zopim=function(c){
+            z._.push(c)},$=z.s=
+            d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+            _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+            $.src='//v2.zopim.com/?2PYal3juf7neoYixBRGTS7D7fmYy2b1m';z.t=+new Date;$.
+                type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+    </script>
+    <!--End of Zopim Live Chat Script-->
+
 </head>
 
 <body class="royal_loader">
@@ -41,7 +53,7 @@
         <div class="row">
             <!--LOGO-->
             <div id="logo">
-<!--                <a class="scroll" href="#home"><img src="img/logo.png" alt="" /></a>-->
+                <a class="scroll" href="#home"><img src="img/logo.jpg" style="width: 60px; height: 60px" alt="" /></a>
             </div>
             <!--//LOGO-->
 
@@ -79,11 +91,11 @@
             </div>
 
             <h1 class="wow bounceInDown" data-wow-duration="3s" data-wow-delay="4s">
-                <span style="color:#ff0000"><strong>DOT</strong></span><span style="color:#2A84BF"><strong>PHICS</strong></span>
+                <span style="color:#ff0000"><strong>DOT</strong></span><span style="color:#000000"><strong>PHICS</strong></span>
             </h1>
 
             <div class="name wow bounceInDown" data-wow-duration="3s" data-wow-delay="2s">
-                <span style="color:#2A84BF"><strong>To the world of creatives</strong></span>
+                <span style="color:#ff0000"><strong>To the world of creatives</strong></span>
             </div>
 
             <div class="text-center pad30">
@@ -478,7 +490,7 @@
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
                                             <a href="{{ url('ajax/project1') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
-                                            <a href="img/gallery/1big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
+                                            <a href="img/gallery/6big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
                                             </a>
@@ -498,7 +510,7 @@
                                     <div class="cbp-l-caption-alignCenter">
                                         <div class="cbp-l-caption-body">
                                             <a href="{{ url('ajax/project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="fa fa-link"></i></a>
-                                            <a href="img/gallery/2big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
+                                            <a href="img/gallery/6big.jpg" class="cbp-lightbox cbp-l-caption-buttonRight"
                                                data-title="Project Title">
                                                 <i class="fa fa-eye"></i>
                                             </a>

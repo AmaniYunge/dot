@@ -1,45 +1,45 @@
 .colour {color:#ff0000; }
  
-a {color: #2A84BF;}
+a {color: #000000;}
 a:hover {color:#ff0000;}
 
-::selection { background: #2A84BF; color: #fff; }
-::-moz-selection { background: #2A84BF; color: #fff; }
+::selection { background:#ff0000; color: #fff; }
+::-moz-selection { background:#ff0000; color: #fff; }
 
-blockquote { border-left:4px solid #2A84BF!important;  }
+blockquote { border-left:4px solid #000000!important;  }
 
-.btn { background-color: #2A84BF!important; }
+.btn { background-color: #ff0000!important; }
 .btn-inverse:hover { background-color: #ff0000!important;}
 
 #menu li a:hover,  #menu  a:focus { color:#ff0000!important; background-color:transparent; }
 
-#contact { color:#f0f0f0!important; background:#2A84BF!important;}
+#contact { color:#f0f0f0!important; background:#ff0000!important;}
 #contact .lead, #contact h1 {color:#f0f0f0!important; }
 
-.footer a { color: #2A84BF!important;  }
+.footer a { color: #ff0000!important;  }
 .footer a:hover { color: #999!important; }
 
 /**** CIRCLE LINK ****/
-.circle { background: #2A84BF!important; }
-.circle:hover {  background: #ff0000!important; }
+.circle { background: #ff0000!important; }
+.circle:hover {  background:#ff0000!important; }
 
 /*  ---------------------------------------------------------------
   	SERVICE ICONS
     --------------------------------------------------------------- */
-.service { background: #2A84BF!important; }
+.service { background:#ff0000!important; }
 
 /*  ---------------------------------------------------------------
   	PROGRESS BARS/SKILL BARS
     --------------------------------------------------------------- */
-.bars-wrapper .progress-bar { background:#2A84BF!important; }
+.bars-wrapper .progress-bar { background:#000000!important; }
 
 /*  ---------------------------------------------------------------
   	TEAM ICONS
     --------------------------------------------------------------- */
-.hi-icon2 { color: #2A84BF!important; }
-.hi-icon-effect-a .hi-icon2 { box-shadow: 0 0 0 3px #2A84BF!important; }
-.no-touch .hi-icon-effect-a1 .hi-icon2:hover { color:#2A84BF!important;}
-.hi-icon-effect-a .hi-icon2:after { background: #2A84BF!important; color:#2A84BF!important; }
+.hi-icon2 { color: #000000!important; }
+.hi-icon-effect-a .hi-icon2 { box-shadow: 0 0 0 3px #000000!important; }
+.no-touch .hi-icon-effect-a1 .hi-icon2:hover { color:#000000!important;}
+.hi-icon-effect-a .hi-icon2:after { background:#ff0000!important; color:#000000!important; }
 
 /*  ---------------------------------------------------------------
    	HOVER CAPTIONS ( TEAM - VIEW PROFILE + WORK - VIEW BUTTONS 
@@ -52,9 +52,9 @@ blockquote { border-left:4px solid #2A84BF!important;  }
 /*  ---------------------------------------------------------------
   PORTFOLIO FILTERS
     --------------------------------------------------------------- */
-.cbp-l-filters-button .cbp-filter-item-active { background-color:#2A84BF!important;  color: #fff !important; }
-.cbp-l-filters-button .cbp-filter-counter { background-color: #2A84BF!important; color: #fff!important; }
-.cbp-l-filters-button .cbp-filter-counter:before { border-top: 4px solid #2A84BF!important;}
+.cbp-l-filters-button .cbp-filter-item-active { background-color:#000000!important;  color: #fff !important; }
+.cbp-l-filters-button .cbp-filter-counter { background-color: #000000!important; color: #fff!important; }
+.cbp-l-filters-button .cbp-filter-counter:before { border-top: 4px solid #000000!important;}
 
 .nav-tabs .active a, .nav-tabs a:hover, .nav-tabs .active  a:focus { background-color:#ff0000!important;}
 
