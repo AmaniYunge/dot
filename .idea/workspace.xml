@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ab1eba2-e00c-46d9-8fd5-e39da97dccd3" name="Default" comment="" />
+    <list default="true" id="9ab1eba2-e00c-46d9-8fd5-e39da97dccd3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/master.blade.php" afterPath="$PROJECT_DIR$/app/views/master.blade.php" />
+    </list>
     <ignored path="dot.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,9 +46,10 @@
       <file leaf-file-name="master.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="90" selection-start="2343" selection-end="2343" vertical-scroll-proportion="0.2084942" vertical-offset="756" max-vertical-offset="18378">
+            <state line="66" column="20" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.17374517" vertical-offset="972" max-vertical-offset="18378">
               <folding>
                 <element signature="tag#script#1;tag#head#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#1;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -458,6 +461,7 @@
         <state line="62" column="10" selection-start="2562" selection-end="2562" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="15690">
           <folding>
             <element signature="tag#script#1;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -503,6 +507,7 @@
         <state line="252" column="0" selection-start="11006" selection-end="12872" vertical-scroll-proportion="0.0" vertical-offset="3765" max-vertical-offset="15690">
           <folding>
             <element signature="tag#script#1;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -718,9 +723,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="90" selection-start="2343" selection-end="2343" vertical-scroll-proportion="0.2084942" vertical-offset="756" max-vertical-offset="18378">
+        <state line="66" column="20" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.17374517" vertical-offset="972" max-vertical-offset="18378">
           <folding>
             <element signature="tag#script#1;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#h1#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
