@@ -91,11 +91,11 @@
             </div>
 
             <h1 class="wow bounceInDown" data-wow-duration="3s" data-wow-delay="4s">
-                <span style="color:#ff0000"><strong>DOT</strong></span><span style="color:#000000"><strong>PHICS</strong></span>
+                <span style="color:#C13136"><strong>DOT</strong></span><span style="color:#000000"><strong>PHICS</strong></span>
             </h1>
 
             <div class="name wow bounceInDown" data-wow-duration="3s" data-wow-delay="2s">
-                <span style="color:#ff0000"><strong>To the world of creatives</strong></span>
+                <span style="color:#C13136"><strong>To the world of creatives</strong></span>
             </div>
 
             <div class="text-center pad30">
@@ -327,7 +327,7 @@
                             <a href="ajax/team1.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Stefan Kasililika</a>
                             <div class="cbp-l-grid-team-position">Designer<br>
                                 <a href="/"> <i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
-                                    <a href="/"><i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
+                                    <a href="/"><i class="fa fa-google-plus fa-2x" style="color: #C13136"></i></a>
                                         <a href="/"><i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
                                             <a href="/"> <i class="fa fa-instagram fa-2x" style="color: #000"></i></a>
                             </div>
@@ -352,7 +352,7 @@
                             <a href="ajax/team2.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Kelvin Mbwilo</a>
                             <div class="cbp-l-grid-team-position">Programmer<br>
                                 <a href="/"><i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
-                                <a href="/"> <i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
+                                <a href="/"> <i class="fa fa-google-plus fa-2x" style="color: #C13136"></i></a>
                                 <a href="/"><i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
                                 <a href="/"><i class="fa fa-instagram fa-2x" style="color: #000"></i></a>
                             </div>
@@ -376,7 +376,7 @@
                             <a href="ajax/team3.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Stefan Kasililika</a>
                             <div class="cbp-l-grid-team-position">Graphic Designer<br>
                                <a href="/" > <i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
-                                <a href="/"><i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
+                                <a href="/"><i class="fa fa-google-plus fa-2x" style="color: #C13136"></i></a>
                                 <a href="/"> <i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
                                 <a href="/"> <i class="fa fa-instagram fa-2x" style="color: #000"></i></a>
                             </div>
@@ -399,7 +399,7 @@
                             <a href="ajax/team4.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Amani Yunge</a>
                             <div class="cbp-l-grid-team-position">Creative director<br>
                                 <a href="/" ><i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
-                                <a href="/" ><i class="fa fa-google-plus fa-2x" style="color: #ff0000"></i></a>
+                                <a href="/" ><i class="fa fa-google-plus fa-2x" style="color: #C13136"></i></a>
                                 <a href="/"><i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
                                 <a href="/"> <i class="fa fa-instagram fa-2x" style="color: #000"></i></a>
                             </div>
