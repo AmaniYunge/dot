@@ -95,7 +95,7 @@
             </h1>
 
             <div class="name wow bounceInDown" data-wow-duration="3s" data-wow-delay="2s">
-                <span style="color:#C13136"><strong>To the world of creatives</strong></span>
+                <span><strong>To the world of creatives</strong></span>
             </div>
 
             <div class="text-center pad30">
