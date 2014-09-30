@@ -311,7 +311,7 @@
                 <div id="grid-container" class="cbp-l-grid-team">
                     <ul class="cbp-l-grid-team">
                         <!--1-->
-                        <li class="cbp-item">
+                        <li class="cbp-item col-md-4">
                             <a href="{{ url('ajax/team1') }}" class="cbp-caption cbp-singlePage">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/team/4.jpg" alt="" >
@@ -336,7 +336,7 @@
                         </li>
 
                         <!--2-->
-                        <li class="cbp-item">
+                        <li class="cbp-item col-md-4">
                             <a href="{{ url('ajax/team2') }}" class="cbp-caption cbp-singlePage">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/team/4.jpg" alt="" >
@@ -360,7 +360,7 @@
                         </li>
 
                         <!--3-->
-                        <li class="cbp-item">
+                        <li class="cbp-item col-md-4">
                             <a href="{{ url('ajax/team3') }}" class="cbp-caption cbp-singlePage">
                                 <div class="cbp-caption-defaultWrap">
                                     <img src="img/team/4.jpg" alt="" >
@@ -373,8 +373,8 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="ajax/team3.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Stefan Kasililika</a>
-                            <div class="cbp-l-grid-team-position">Graphic Designer<br>
+                            <a href="ajax/team3.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Amani Yunge</a>
+                            <div class="cbp-l-grid-team-position">Creative Director<br>
                                <a href="/" > <i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
                                 <a href="/"><i class="fa fa-google-plus fa-2x" style="color: #C13136"></i></a>
                                 <a href="/"> <i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
@@ -382,28 +382,6 @@
                             </div>
                         </li>
 
-                        <!--4-->
-                        <li class="cbp-item">
-                            <a href="{{ url('ajax/team4') }}" class="cbp-caption cbp-singlePage">
-                                <div class="cbp-caption-defaultWrap">
-                                    <img src="img/team/4.jpg" alt="" >
-                                </div>
-                                <div class="cbp-caption-activeWrap">
-                                    <div class="cbp-l-caption-alignCenter">
-                                        <div class="cbp-l-caption-body">
-                                            <div class="cbp-l-caption-text">VIEW PROFILE</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="ajax/team4.blade.php" class="cbp-singlePage cbp-l-grid-team-name">Amani Yunge</a>
-                            <div class="cbp-l-grid-team-position">Creative director<br>
-                                <a href="/" ><i class="fa fa-facebook-square fa-2x" style="color: #2A84BF"></i></a>
-                                <a href="/" ><i class="fa fa-google-plus fa-2x" style="color: #C13136"></i></a>
-                                <a href="/"><i class="fa fa-github-square fa-2x" style="color: #2A84BF"></i></a>
-                                <a href="/"> <i class="fa fa-instagram fa-2x" style="color: #000"></i></a>
-                            </div>
-                        </li>
                     </ul>
                 </div>
                 <!--//TEAM MEMBERS-->
